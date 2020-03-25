@@ -13,11 +13,11 @@ Large data set of grades, students, and budgets spanning 15 schools analytically
 3) From here, you can run the blocks one-by-one by selecting the first block and clicking "Run" on top, for each cell, to see the process of analytics, or selecting "Cells" from the top bar and then "Run All" to see it execute all at once.
 4) To shutdown, select "Quit" on Jupyter directory webpage.
 ## Data Preview
-### Source Data (Schools)
+### Source Data: Schools
 CSV record of 15 schools listing its ID, name, whether it is a district or charter school, the size/population of the institute, and overall budget.
 
 ![Schools](Images/schools.png)
-### Source Data (Students)
+### Source Data: Students
 CSV with a record of 39,170 students. Each student has their listed ID, name, gender, grade, school name, reading score, and math score.
 
 ![Students](Images/students.png)
