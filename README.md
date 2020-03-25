@@ -1,5 +1,5 @@
 # pandas
-Large data set of grades, students, and budgets spanning 15 schools analytically explored through Pandas' DataFrame capabilities. Passing rate is  defined as having a score that is equal to or greater than 70. Education is essential, and having the analytical skills to see what is going within institutions is invaluable. 
+Large data set of grades, students, and budgets spanning 15 schools analytically explored through Pandas' DataFrame capabilities. Passing rate is  defined as having a score that is equal to or greater than 70. Education is essential, and having the analytical skills to see what is occurring within institutions is invaluable. 
 ![school](school.jpg)
 ## Getting Started
 ### Installing
@@ -33,4 +33,4 @@ A very brief, holistic summary to quickly assess performance of all the students
 An overall summary organized by the 15 individual schools, and their students' performances by averages. Total school budget and its derived individual student budget, total school budget, total student count, and type of school are also included in order to give context to the averages and schools.
 
 ![Summary_by_Schools](Images/merged_summary.png)
-### Output: Schools
+### Output: Schools Ranked from Best Performing Students to Worst
