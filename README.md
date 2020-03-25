@@ -24,7 +24,7 @@ CSV with a record of 39,170 students. Each student has their listed ID, name, ge
 ### Output: Merged Student and Schools CSVs
 Initial data manipulation is a merge of both CSVs by joining relevant school information to the corresponding student.
 
-![Merged_Data](Images/merges_csvs.png)
+![Merged_Data](Images/merged_csvs.png)
 ### Output: Short Overall Summary
 A very brief, holistic summary to quickly assess performance of all the students by average scores and percentages. This is prefixed by a total count of schools, students, and dollars in budget to give a sense of scale for the data. 
 
