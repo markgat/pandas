@@ -30,7 +30,7 @@ A very brief, holistic summary to quickly assess performance of all the students
 
 ![Overall](Images/overall_avgs.png)
 ### Output: Merged CSVs Organized by School
-An overall summary organized by the 15 individual schools, and their students' performances by averages. Total school budget and its derived individual student budget, total school budget, total student count, and type of school are also included in order to give context to the averages and schools.
+An overall summary organized by the 15 individual schools, and their students' performances by averages. Total school budget and its derived individual student budget, total student count, and type of school are also included in order to give context to the averages and schools.
 
 ![Summary_by_Schools](Images/merged_summary.png)
 ### Output: Schools Ranked from Best Performing Students to Worst
