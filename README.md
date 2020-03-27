@@ -40,7 +40,7 @@ Contains the same data as the previous table, but ranked from the greatest to le
 ### Output: Student Average Math Scores by Grade
 All 15 schools are individually listed with students' average scores per grade. Analyzing  this way can check to see consistency of school curriculum across grades, influence by grade/age in performance, as well as viewing student performance based on general curriculum difficulty between schools for math.
 
-![Math_Scores](mathpercent.png)
+![Math_Scores](Images/mathpercent.png)
 ### Output: Student Average Reading Scores by Grade
 All 15 schools are individually listed with students' average scores per grade. Analyzing  this way can check to see consistency of school curriculum across grades, influence by grade/age in performance, as well as viewing student performance based on general curriculum difficulty between schools for reading.
 
