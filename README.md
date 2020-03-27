@@ -34,3 +34,22 @@ An overall summary organized by the 15 individual schools, and their students' p
 
 ![Summary_by_Schools](Images/merged_summary.png)
 ### Output: Schools Ranked from Best Performing Students to Worst
+Contains the same data as the previous table, but ranked from the greatest to least percentage of overall passing rate. Of course, passing rates can be an indicator of either capable students, great teaching, and/or an easy curriculum. Further analysis and more data would be required to solidify any hypotheses.
+
+![Best_Schools](Images/best_sorted.png)
+### Output: Student Average Math Scores by Grade
+All 15 schools are individually listed with students' average scores per grade. Analyzing  this way can check to see consistency of school curriculum across grades, influence by grade/age in performance, as well as viewing student performance based on general curriculum difficulty between schools for math.
+
+![Math_Scores](mathpercent.png)
+### Output: Student Average Reading Scores by Grade
+All 15 schools are individually listed with students' average scores per grade. Analyzing  this way can check to see consistency of school curriculum across grades, influence by grade/age in performance, as well as viewing student performance based on general curriculum difficulty between schools for reading.
+
+![Reading_Scores](Images/readingpercent.png)
+### Output: General Student Performance by Spending Range/Budget
+Dividing a school's budget by the number of students, we get an estimate of the minimum spending of students. The spending ranges are then tied to the averages of math and reading scores/passing rates. What is very evident with this data is that there is a gradual decline in scores and passing percentage as a student spends more. The greatest decline being within the percentage of students passing math.
+
+![Spending](Images/spending_ranges.png)
+### Output: General Student Performance by School Size
+Averages of math and reading scores/passing rates calculated by the size of each school's population. With an increase in size is a general decline in students' scores and passing percentage. What is interesting is that although the average scores were lower in medium sized schools compared to small schools, the passing percentage for both subjects increased which meant student grades were lower, but were more centralized above the score of 70. 
+
+![School_Size](Images/school_size.png)
