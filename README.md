@@ -14,7 +14,7 @@ Large data set of grades, students, and budgets spanning 15 schools analytically
 4) To shutdown, select "Quit" on Jupyter directory webpage.
 ## Data Preview
 ### Source Data: Schools
-CSV record of 15 schools listing its ID, name, whether it is a district or charter school, the size/population of the institute, and overall budget.
+CSV record of 15 schools listing their ID, name, whether it is a district or charter school, the size/population of the institute, and overall budget.
 
 ![Schools](Images/schools.png)
 ### Source Data: Students
